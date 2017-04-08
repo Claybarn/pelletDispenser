@@ -1,2 +1,4 @@
 # pelletDispenserOutput
-OE interface with pellet dispenser, can be triggered by TTL
+Open Ephys module that creates an interface with an arduino running 'pelletDispenser.ino'. 
+
+Directions for the wiring setup can be found in the sketch.
